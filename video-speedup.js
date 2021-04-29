@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       saccharide
 // @match        https://domainA.com*                                          // this is the the main frame
 // @match        https://domainB.com/*                                         // this can be the inner iframe
 //
